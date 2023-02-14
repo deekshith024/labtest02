@@ -61,6 +61,7 @@ app.post('/formSubmit', (req, res) => {
 
   // Perform database query
   /*
+  
 app.get('/products', (req, res) => {
   db.all('SELECT * FROM products', (err, rows) => {
     if (err) {
